@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitinmukeshgithub
-- 👀 I’m interested in Micro Electronics
+- I’m interested in Micro Electronics
 - 🌱 I’m currently pursuing Mtech from IIT Bhilai
 
 
