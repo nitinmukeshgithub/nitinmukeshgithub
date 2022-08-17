@@ -4,7 +4,7 @@
   <em>
     I'm currently pursuing my <b>M.Tech</b> at <b> Indian Institute of Technology Bhilai </b> with specialization in <b>ELECTRICAL ENGINEERING</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
   </em>
-<img align="right" alt="Coder GIF" height=400 width=400 src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" />
+<img align="right" alt="Coder GIF" height=400 width=500 src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" />
   
  </p>
 
@@ -37,7 +37,7 @@
 <hr>
 <div>
 <p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Aga929s9jwOM8/giphy.gif" />
 
 **Things I'm good at :fire:**
 
