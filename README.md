@@ -37,7 +37,7 @@
 <hr>
 <div>
 <p>
-<img align="right" alt="Coder GIF" height=700 width=400 src="https://media.giphy.com/media/Aga929s9jwOM8/giphy.gif" />
+<img align="right" alt="Coder GIF" height=600 width=500 src="https://media.giphy.com/media/Aga929s9jwOM8/giphy.gif" />
 
 **Things I'm good at :fire:**
 
