@@ -63,7 +63,7 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding!!
 
 ### Connect with me
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:sarangd@iitbhilai.ac.in)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:nitinm@iitbhilai.ac.in)
 
 
 ### My Socials
