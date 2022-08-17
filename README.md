@@ -71,7 +71,7 @@ Happy Coding!!
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/nitin-mukesh-8a720174/)  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nitin_Mukesh&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Nitin-Mukesh&style=flat-square)
 
 ```python
 
