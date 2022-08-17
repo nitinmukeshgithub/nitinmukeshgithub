@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @nitinmukeshgithub
-- I’m interested in Micro Electronics
+- I’m interested in Micro Electronics/VLSI currently pursuing Mtech from IIT Bhilai.
+
+Contains Circuits Schematic, Layout & Data Science information.
+
+
 - 🌱 I’m currently pursuing Mtech from IIT Bhilai
 
 
