@@ -5,6 +5,7 @@
     I'm currently pursuing my <b>M.Tech</b> at <b> Indian Institute of Technology Bhilai </b> with specialization in <b>ELECTRICAL ENGINEERING</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
   </em>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" />
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/XZcwMvQLRf9aXRa3qW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XZcwMvQLRf9aXRa3qW">via GIPHY</a></p>
  </p>
 
 
