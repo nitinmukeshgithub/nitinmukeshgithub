@@ -4,7 +4,7 @@
   <em>
     I'm currently pursuing my <b>M.Tech</b> at <b> Indian Institute of Technology Bhilai </b> with specialization in <b>ELECTRICAL ENGINEERING</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
   </em>
-<img align="right" alt="Coder GIF" height=400 width=500 src="https://media.giphy.com/media/7Fxl5vBXzrSIIqBgEy/giphy.gif" />
+
  
  </p>
 
